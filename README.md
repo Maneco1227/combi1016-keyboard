@@ -3,6 +3,7 @@ Combi1016 keyboard is an additional keyboard, suitable for inputting hexadecimal
 This keyboard is useful to input a css color code and coordinates on a cad application. 
 
 In this repository, KiCAD schema, PCB layout, gerber and qmk firmware are available.
+Their data is *AS IS*, no warranties.
 
 # Key layout
 Press Fn key, it changes Normal and Fn(Hex) mode alternately.
