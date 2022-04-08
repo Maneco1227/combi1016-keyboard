@@ -1,4 +1,4 @@
-# combi1016-keyboard
+# Combi1016-keyboard
 Combi1016 keyboard is an additional keyboard, suitable for inputting hexadecimal number such as css color code. 
 In this repository, KiCAD schema, PCB layout, gerber and qmk firmware are available.
 
