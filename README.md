@@ -1,7 +1,7 @@
 # combi1016-keyboard
 Combi1016 keyboard is an additional keyboard, suitable for inputting hexadecimal number. 
 
-In this repository, KiCAD schema and PCB layout, gerber, qmk firmware are available.
+In this repository, KiCAD schema, PCB layout, gerber and qmk firmware are available.
 
 # Key layout
 
