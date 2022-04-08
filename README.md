@@ -6,14 +6,7 @@ In this repository, KiCAD schema and PCB layout, gerber, qmk firmware are availa
 # Key layout
 
 ## Normal mode
+![keyboard-layout-4](https://user-images.githubusercontent.com/1388676/162418674-326d7f42-a204-490f-82e9-1a864c4b42e0.png)
 
-+-----+---+---+---+---+
-|Back |=  |/  |*  |-  | 
-|Space|   |   |   |   |
-+-----+---+---+---+---+
-|Tab  | 7 |8  |  9|+  |
-|     |   |   |   |   |
-+-----+---+---+---+---+
-|Fn   |4  |5  | 6 | , |
-|     |   |   |   |   |
-![keyboard-layout](https://user-images.githubusercontent.com/1388676/162416914-d1a17e28-acfc-4d94-a565-bb5abfc53b7e.svg)
+## Fn(HEX) mode
+![keyboard-layout-5](https://user-images.githubusercontent.com/1388676/162419305-89f1ed7b-e5cd-44af-8535-e80f8c136c8c.png)
