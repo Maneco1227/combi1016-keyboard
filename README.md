@@ -16,3 +16,4 @@ In this repository, KiCAD schema and PCB layout, gerber, qmk firmware are availa
 +-----+---+---+---+---+
 |Fn   |4  |5  | 6 | , |
 |     |   |   |   |   |
+![keyboard-layout](https://user-images.githubusercontent.com/1388676/162416914-d1a17e28-acfc-4d94-a565-bb5abfc53b7e.svg)
